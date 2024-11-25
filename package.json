@@ -1,9 +1,9 @@
 {
-  "name": "todo-app",
+  "name": "mernapp",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/YNS-JNS/ToDo-List-Pro.git",
-  "author": "yns-jns <younessaitmbarek97@gmail.com>",
+  "repository": "https://github.com/namay10/RBAC-MERN-STACK.git",
+  "author": "namay10",
   "license": "MIT",
   "private": true,
   "workspaces": [
