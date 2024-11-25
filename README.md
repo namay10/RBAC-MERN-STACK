@@ -1,6 +1,6 @@
 ---
 
-# User Authentication & Authorization with JWT and RBAC
+# Assignment For VRV Security's Frontend Developer Intern |RBAC
 
 This project implements a user authentication and authorization system using Node.js, Express.js, MongoDB, React.js, and Redux Toolkit. It also includes CRUD API endpoints for user management and implements dynamic Role-based Access Control (RBAC) in the REST API.
 
